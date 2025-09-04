@@ -20,7 +20,7 @@ I'm a Data Analytics student at Clark University, passionate about solving real-
 I am actively looking for **Data Analyst** roles to apply my data analysis skills and provide actionable insights. I’m passionate about working in agriculture, finance, and entertainment.
 
 ## 📫 How to Reach Me
-- Email: [sdodde1@clarku.edu](mailto:sdodde@clarku.edu)
+- Email: [sdodde@clarku.edu](mailto:sdodde@clarku.edu)
 - LinkedIn: [spandana-linkedin](linkedin.com/in/spandana-dodde)
 
 ---
